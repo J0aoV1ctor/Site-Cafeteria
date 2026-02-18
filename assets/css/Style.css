@@ -7,6 +7,9 @@
     --bs-btn-active-bg: #0d6937; 
 }
 
+main{
+    margin-top: 5rem;
+}
 
 .navbar-brand img{
 
@@ -32,4 +35,10 @@
     background: linear-gradient(transparent, rgba(31, 31, 31,));
     position: absolute;
 }
+
+
+.card-menu img{
+
+    height: 300px;
+    object-fit: cover;
 
